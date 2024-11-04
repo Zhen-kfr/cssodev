@@ -1,0 +1,36 @@
+h3{
+    color: darkgoldenrod;
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+a{
+    color: cadetblue;
+}
+#navi li{
+display: inline;
+margin: 0 50px;
+
+}
+ h3{
+    margin: 0;
+    padding: 0;
+ }
+ .kirmizi{
+    color: blue;
+ }
+ .cizgili{
+    text-decoration: underline;
+ }
+ #navi{
+    font-size: 15px;
+ }
+  .sitelinkleribaslik{
+font-size: 25px;
+  }
+  ul#navi{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+  }
